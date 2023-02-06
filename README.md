@@ -11,7 +11,7 @@ Requirements
 Usage
 
    * Clone or download the repository
-   * Install the required packages using pip install -r requirements.txt
+   * Install the required packages i-e numpy and numpy-stl
    * Replace 'teapot.stl' in the code with the path to your STL file
    * Run the code using python parse_stl.py
 
