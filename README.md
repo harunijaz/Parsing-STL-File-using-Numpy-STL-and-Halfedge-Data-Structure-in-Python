@@ -15,6 +15,6 @@ Usage
    * Replace 'teapot.stl' in the code with the path to your STL file
    * Run the code using python parse_stl.py
 
-The code will output the number of faces, vertices, and edges in the mesh represented by the STL file.
+The code will output the number of Hafledges in the mesh represented by the STL file.
 
 Feel free to use and modify the code for your own projects. If you have any questions or improvements, please open an issue or a pull request in the repository.
