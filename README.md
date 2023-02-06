@@ -1,5 +1,7 @@
 Parsing STL File using Numpy-STL and Halfedge Data Structure in Python
 
+Detail article: https://medium.com/@harunijaz/parsing-stl-file-using-numpy-stl-and-halfedge-data-structure-in-python-implementation-34a765e9ac75 
+
 This code demonstrates how to parse a STL file using the numpy-stl library and the halfedge data structure in Python.
 Requirements
 
